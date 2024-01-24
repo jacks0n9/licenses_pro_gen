@@ -3,7 +3,7 @@ name = "licenses_pro_gen"
 description="Simple license generating tool for licenses_pro."
 repository="https://github.com/jacks0n9/licenses_pro_gen.git"
 license="MIT OR Apache-2.0"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
