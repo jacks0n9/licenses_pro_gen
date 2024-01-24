@@ -148,9 +148,9 @@ checksum = "13e3bf6590cbc649f4d1a3eefc9d5d6eb746f5200ffb04e5e142700b8faa56e7"
 
 [[package]]
 name = "licenses_pro"
-version = "0.2.0"
+version = "0.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "dc0b2b8aaef5c84c057a4c51a4a607818eb1f0bafb7b5ca45d856facfdbb2586"
+checksum = "7880d3353c9eaeeb02c7995b03ade14fb07f15758a48e241ef3dcb8afb7068c4"
 dependencies = [
  "base64",
  "rand",
