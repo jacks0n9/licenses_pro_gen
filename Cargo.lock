@@ -159,7 +159,7 @@ dependencies = [
 
 [[package]]
 name = "licenses_pro_gen"
-version = "0.2.2"
+version = "0.2.3"
 dependencies = [
  "clap",
  "licenses_pro",

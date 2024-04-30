@@ -26,6 +26,9 @@ fn main() {
                 payload_length,
                 chunk_size: CHUNK_SIZE,
             });
+            println!("Use the following code to verify licenses:");
+            println!("LicenseStructParameters{{seed_length: 8,payload_length: {payload_length},chunk_size: {CHUNK_SIZE}}}");
+            println!("Initialization vectors are contained within your generating file.");
             let config = Config {
                 count: 0,
                 ivs: genner.ivs,
